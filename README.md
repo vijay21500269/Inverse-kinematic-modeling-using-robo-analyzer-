@@ -37,49 +37,8 @@ Finally, inverse kinematics algorithms calculate the exact position of each of t
 
 ### PROCEDURE:
 
-
-
-
-
-
-
-
 ### SIMULATION 
- 
- 
- 
- 
- 
- 
- 
- ### PLOT 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
 
- 
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
+### PLOT 
 
 ### RESULTS :  
